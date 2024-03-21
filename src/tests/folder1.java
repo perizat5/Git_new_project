@@ -1,2 +1,4 @@
-package tests;public class folder1 {
+package tests;
+
+public class folder1 {
 }
